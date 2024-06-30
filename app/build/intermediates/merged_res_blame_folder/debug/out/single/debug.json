@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_first.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/first.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_backradio.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/backradio.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_x.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_x.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_set.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/set.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_spinner_item.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_baseline_star_border_24.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_baseline_star_border_24.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_choose.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_choose.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_top.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/top.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_fab.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/fab.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_triangle.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_triangle.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_third.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/third.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_name.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_name.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_baseline_vibration_24.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_baseline_vibration_24.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_spinner_dropdown_item.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_backorange.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/backorange.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/anim_in_animation.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/anim/in_animation.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_square.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_square.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_dialog_layout_exit.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/dialog_layout_exit.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_o.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_o.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/font_righteous.ttf.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/font/righteous.ttf"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_dialog_layout.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_settings.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_two_name.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_two_name.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_baseline_whatshot_24.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_back.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/back.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_ic_baseline_feedback_24.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/ic_baseline_feedback_24.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_bot.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/bot.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_backwhite.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/backwhite.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_doksa.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/doksa.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_second.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/second.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_scene.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_scene.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_star.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_star.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/anim_rotate.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/anim/rotate.xml"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_fourth.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/fourth.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/drawable_new_poly.png.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/drawable/new_poly.png"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.vickystft.tictactoegames.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.vickystft.tictactoegames.app-main-40:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vickystft.tictactoegames.app-mergeDebugResources-36:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tittu\\.gradle\\caches\\transforms-3\\a36b67cfcfbd8b82323549721ad0eeb5\\transformed\\material-1.9.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}
